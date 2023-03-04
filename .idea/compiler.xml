@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="adjacency-list-model" />
         <module name="nested-set-model" />
-        <module name="poc-hierarchical-data-on-rdbms-with-jpa" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

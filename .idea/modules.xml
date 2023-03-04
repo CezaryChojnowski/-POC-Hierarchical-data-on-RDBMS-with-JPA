@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/adjacency-list-model/adjacency-list-model.iml" filepath="$PROJECT_DIR$/adjacency-list-model/adjacency-list-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/nested-set-model/nested-set-model.iml" filepath="$PROJECT_DIR$/nested-set-model/nested-set-model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/poc-hierarchical-data-on-rdbms-with-jpa.iml" filepath="$PROJECT_DIR$/poc-hierarchical-data-on-rdbms-with-jpa.iml" />
     </modules>
   </component>
 </project>
